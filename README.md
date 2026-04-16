@@ -1,6 +1,6 @@
 # Hi there! I'm Anshima Gupta 👋
 
-**B.Tech CSE (2nd Year) | Aspiring MERN Developer**
+**B.Tech CSE (2nd Year) | Learning to build real-world web applications and exploring AI to make them smarter.**
 
 ---
 
@@ -39,7 +39,7 @@ I am a Computer Science student at **Rajkiya Engineering College, Mainpuri**, fo
   → Real-time conversion using API  
 
 - **Mini Games (JavaScript)**  
-  → Logic-based projects (Tic-Tac-Toe, etc.)
+  → Logic-based projects (Tic-Tac-Toe, Stone-Paper-scissors etc.)
 
 ---
 
